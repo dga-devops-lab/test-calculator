@@ -17,3 +17,7 @@ z = e/f
 ##Percentage 
 
 v = i/100*n%
+
+##Multiplication Function
+
+w = g*h
