@@ -7,3 +7,7 @@ Y = a+b
 ##subtraction Function
 
 x = c-d
+
+##Division Function
+
+z = e/f
