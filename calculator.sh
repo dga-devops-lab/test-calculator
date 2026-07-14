@@ -3,4 +3,7 @@
 ##addithion Function
 
 Y = a+b
-x = c+d
+
+##subtraction Function
+
+x = c-d
